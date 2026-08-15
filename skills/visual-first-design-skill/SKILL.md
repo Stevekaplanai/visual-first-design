@@ -1,6 +1,13 @@
 ---
 name: visual-first-design-skill
-description: Use when building or changing anything a human will see or judge — UI, pages, dashboards, emails, documents — on a team where the reviewer is a product manager or non-developer technical operator, especially in autonomous or agent-driven CI/CD. Also use when reporting completion of such work, when a request is visually ambiguous, or when tempted to call something done because tests pass. Engine-agnostic: applies to Claude, Codex, Hermes, Kimi, Gemini, DeepSeek, or any agent harness.
+description: >-
+  Use when building or changing anything a human will see or judge — UI, pages,
+  dashboards, emails, documents — on a team where the reviewer is a product
+  manager or non-developer technical operator, especially in autonomous or
+  agent-driven CI/CD. Also use when reporting completion of such work, when a
+  request is visually ambiguous, or when tempted to call something done because
+  tests pass. Engine-agnostic — applies to Claude, Codex, Hermes, Kimi, Gemini,
+  DeepSeek, or any agent harness.
 ---
 
 # Visual-First Development

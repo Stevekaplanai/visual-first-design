@@ -1,6 +1,15 @@
 ---
 name: visual-evidence-reviewer
-description: Use this agent to audit a change, branch, or PR for visual-first contract compliance before merge or deploy — verifying that required visual evidence (mocks, before/after screenshot pairs, live captures) actually exists, is fresh, and matches the change. Trigger it proactively after any change to a visible surface, as the review step in agent-driven CI/CD, or when a completion report needs independent verification. Examples: after an agent claims a UI change is done ("verify the evidence on PR #42"), before merging a branch that touches pages/styles/components, or when a report references screenshots that should be checked for fabrication.
+description: >-
+  Use this agent to audit a change, branch, or PR for visual-first contract
+  compliance before merge or deploy — verifying that required visual evidence
+  (mocks, before/after screenshot pairs, live captures) actually exists, is
+  fresh, and matches the change. Trigger it proactively after any change to a
+  visible surface, as the review step in agent-driven CI/CD, or when a
+  completion report needs independent verification. Examples — after an agent
+  claims a UI change is done ("verify the evidence on PR 42"), before merging a
+  branch that touches pages/styles/components, or when a report references
+  screenshots that should be checked for fabrication.
 tools: Read, Bash, Glob, Grep
 model: sonnet
 color: red
