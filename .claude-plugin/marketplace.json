@@ -1,0 +1,25 @@
+{
+  "name": "visual-first-design",
+  "owner": {
+    "name": "Steve Kaplan",
+    "email": "stevekaplan@outlook.com",
+    "url": "https://claudeskillshq.com"
+  },
+  "plugins": [
+    {
+      "name": "visual-first-design",
+      "source": "./",
+      "description": "Visual-first agentic development framework: the rendered deliverable — mock, screenshots, before/after, live proof — is the unit of review at every CI/CD stage, so product managers and non-developer operators can steer agent-driven work.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Steve Kaplan",
+        "url": "https://claudeskillshq.com"
+      },
+      "homepage": "https://claudeskillshq.com",
+      "repository": "https://github.com/Stevekaplanai/visual-first-design",
+      "license": "MIT",
+      "category": "development",
+      "keywords": ["visual-first", "agentic", "ci-cd", "screenshots", "mockups", "design-review", "multi-engine", "product-manager"]
+    }
+  ]
+}
